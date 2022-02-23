@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200&family=Roboto:wght@300&display=swap");
+body{
+    background: black;
+
+}
+pre{
+    color: white;
+}
+
+.betterfont{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hidden{
+    color: black;
+}
+
+.hiddenLink{
+    color: black;
+    text-decoration: none;
+}
+
+#enterImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
+
+#enterText{
+    margin-left: 30%;
+}
+
+h1{
+    color:white;
+}
